@@ -31,5 +31,6 @@
             <p><a href="/amisha">Home</a></p>
             <p><a href="/amisha/addProduct.php">Add Product</a></p>
             <p><a href="/amisha/cart.php">Cart</a></p>
+            <p><a href="/amisha/login.php">Login</a></p>
         </div>
     </div>
